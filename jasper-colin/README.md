@@ -145,3 +145,21 @@ Frontend ✅
 - Rate limiting
 - Secure password hashing
 - HTTP-only cookies for token storage
+
+## Frontend UI Examples
+
+- Base
+![Base](./images/Capture1.PNG)
+
+- Register
+![Register](./images/Capture5.PNG)
+
+- Login
+![Login](./images/Capture4.PNG)
+
+- Products
+![Products](./images/Capture2.PNG)
+
+- Add/Edit Product
+![Add Product](./images/Capture3.PNG)
+
